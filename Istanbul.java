@@ -110,6 +110,24 @@ public class Game{
 	public boolean checkVictory(){};
 }
 
+// Methods
+public void greatMosqueAction(){};
+public void smallMosqueAction(){};
+public void postOfficeAction(){};
+public void fountainAction(){};
+public void greatMarketAction(){};
+public void smallMarketAction(){};
+public void blackMarketAction(){};
+public void fruitWarehouseAction(){};
+public void spiceWarehouseAction(){};
+public void fabricWarehouseAction(){};
+public void policeStationAction(){};
+public void caravansaryAction(){};
+public void teaHouseAction(){};
+public void wainwrightAction(){};
+public void gemstoneDealerAction(){};
+public void sultansPalaceAction(){};
+
 
 
 
