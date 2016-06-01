@@ -127,7 +127,16 @@ public class Game{
 // Methods
 public void greatMosqueAction(){};
 public void smallMosqueAction(){};
-public void gemstoneDealerAction(){};
+
+public void gemstoneDealerAction(){
+/*
+- If Player is able/willing to pay lira = 24 - Place availableRubies...
+- Player payLiraToBank (24 - Place availableRubies);
+- Player currentRubies++;
+- Place availableRubies--;
+*/
+};
+
 public void sultansPalaceAction(){};
 
 public void smallMarketAction(){
